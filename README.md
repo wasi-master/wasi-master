@@ -22,6 +22,7 @@ Hi, I'm [Wasi Master](http://www.wasimaster.tk/), a 14 year old developer from B
 
 ---
 
+<span>
 <img height="20" src="Resources/rounded_icons/after_effects.png" alt="Adobe After Effects" title="Adobe After Effects">
 <img height="20" src="Resources/rounded_icons/arduino.png" alt="Arduino" title="Arduino">
 <img height="20" src="Resources/rounded_icons/c.png" alt="C" title="C">
@@ -49,6 +50,7 @@ Hi, I'm [Wasi Master](http://www.wasimaster.tk/), a 14 year old developer from B
 <img height="20" src="Resources/rounded_icons/react.png" alt="React" title="React">
 <img height="20" src="Resources/rounded_icons/unity.png" alt="Unity" title="Unity">
 <img height="20" src="Resources/rounded_icons/vscode.png" alt="Visual Studio Code" title="Visual Studio Code">
+<span>
 
 ### 📈 My GitHub Stats
 
