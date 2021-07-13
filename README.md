@@ -56,10 +56,12 @@ Hi, I'm [Wasi Master](http://www.wasimaster.tk/), a 14 year old developer from B
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wasi-master" alt="wasi-master" title="wasi-master" />
+<img src="https://github-readme-stats.vercel.app/api?username=wasi-master&custom_title=Github%20Stats" alt="wasi-master" title="wasi-master" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasi-master&layout=compact&langs_count=10" alt="top_langs" title="Top Languages"/>
+</p>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi_master&layout=compact&custom_title=Time%20Spent">
 
 ### Show some ❤️ by starring some of the repositories
 
