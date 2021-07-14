@@ -62,6 +62,7 @@ Hi, I'm [Wasi Master](http://www.wasimaster.tk/), a 14 year old developer from B
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi_master&layout=compact&custom_title=Time%20Spent">
+
 ###### (The time shown here is recorded after 13 July 2021)
 ### Show some ❤️ by starring some of the repositories
 
