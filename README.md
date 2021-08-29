@@ -7,7 +7,7 @@ Hi, I'm [Wasi Master](http://www.wasimaster.tk/), a 14 year old developer from B
 
 <br>
 
-- 📫 How to reach me: [arianmollikwasi@gmail.com](mailto:arianmollikwasi@gmail.com);
+- 📫 How to reach me: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com);
 
 <br>
 
