@@ -4,20 +4,25 @@
 <br>
 
 Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my website"), a 14 year old developer from Bangladesh. I'm a creative problem solving enthusiast who has a constantly growing love for programming
-
-- 📫 You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com);
+- 🏫: I'm a grade 8, a High School Student. 📚
+- 🔭: I’m currently working on many small projects. 🤏
+- 🌱: I’m currently learning Kotlin, Jetpack Compose, MVVM. 🧠💻🤖
+- 🤔: I’m looking for input with anything I am currently working on! 😄
+  - 👉: Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 
+- 💬: Ask me about Python, Life in Bangladesh. <img src="https://i.imgur.com/iOxzGwv.png" width=14> 🇧🇩
+- 😄: Pronouns: He/Him 👦
+- ⚡: Fun fact: I've been "programming" for 2 years now but if you consider [scratch](https://scratch.mit.edu) then it's over 5 years
+- 📫: You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com)
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=wasi-master" alt="wasi-master" title="Profile Views" />
 </p>
 
-## Spotify
-
----
+## Spotify [![-----------------------------------------------------](https://i.imgur.com/8xgqJEj.png)](https://github.com/wasi-master?tab=repositories)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gvt8a9vg92cvupchdzkkftl53&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## 🖥️ Languages and Tools
+## 🖥️ Languages and Tools [![-----------------------------------------------------](https://i.imgur.com/1TAoRGH.png)](https://github.com/wasi-master?tab=repositories)
 
 <details open>
 <summary>
@@ -34,8 +39,6 @@ Notes (click to expand):
 4. The list contains tools I have differing amounts of knowledge in, I do not know everything *perfectly*.
 </details>
 </summary>
-
----
 
 ### **"Programming" Languages**
 
@@ -195,9 +198,7 @@ The browsers I use or have used in the past sorted by use time, I currently use 
 
 </details>
 
-### 📈 My GitHub Stats
-
----
+### 📈 My GitHub Stats [![-----------------------------------------------------](https://i.imgur.com/RpuDlQr.png)](https://github.com/wasi-master?tab=repositories)
 
 <span align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wasi-master&custom_title=Github%20Stats" alt="wasi-master" title="wasi-master" />
@@ -212,6 +213,13 @@ The browsers I use or have used in the past sorted by use time, I currently use 
     </figure>
 
 ### Show some ❤️ by starring some of the repositories
+
+<br>
+<br>
+Here's a <b>random programmer joke</b> for you :)<br><br>
+<a href="https://readme-jokes.vercel.app">
+    <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFEFE&hideBorder&qColor=%234f94ef&aColor=%23333333" alt="Random Joke">
+</a>
 
 </div>
 
