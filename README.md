@@ -18,7 +18,7 @@ Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my po
     <img src="https://komarev.com/ghpvc/?username=wasi-master" alt="wasi-master" title="Profile Views" />
 </p>
 
-## Spotify [![-----------------------------------------------------](https://i.imgur.com/8xgqJEj.png)](https://github.com/wasi-master?tab=repositories)
+## <img src="https://i.imgur.com/ViAQIkW.png" width="20" alt=""> Spotify [![-----------------------------------------------------](https://i.imgur.com/8xgqJEj.png)](https://github.com/wasi-master?tab=repositories)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gvt8a9vg92cvupchdzkkftl53&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
