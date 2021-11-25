@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-<h1><img src="https://emoji.gg/assets/emoji/6391_ablobwave.gif" width="25" /> Hey, nice to see you here.</h1>
+<h1><img src="https://emoji.gg/assets/emoji/6391_ablobwave.gif" width="25" /> Hey, nice to see you here. Scroll down for more info</h1>
 
 <br>
 
