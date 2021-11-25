@@ -24,13 +24,16 @@ Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my we
 <summary>
 These are the languages and tools I use.
 
+<details close>
+<summary>
 Notes:
-
+</summary>
+    
 1. The sorting is done approximately.
 2. The list does not represent *everything*.
 3. The data may be outdated.
 4. The list contains tools I have differing amounts of knowledge in, I do not know everything *perfectly*.
-
+</details>
 </summary>
 
 ---
