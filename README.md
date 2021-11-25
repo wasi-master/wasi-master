@@ -21,11 +21,11 @@ Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my we
 
 <details open>
 <summary>
-These are the languages and tools I use.
+These are the languages and tools I use. (click to hide)
 
 <details close>
 <summary>
-Notes:
+Notes (click to expand):
 </summary>
     
 1. The sorting is done approximately.
