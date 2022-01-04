@@ -4,7 +4,7 @@
 <br>
 
 Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my portfolio video"), a 14 year old developer from Bangladesh. I'm a creative problem solving enthusiast who has a constantly growing love for programming
-- 🏫: I'm a grade 8, a High School Student. 📚
+- 🏫: I'm a grade 9, a High School Student. 📚
 - 🔭: I’m currently working on many small projects. 🤏
 - 🌱: I’m currently learning Kotlin, Jetpack Compose, MVVM. 🧠💻🤖
 - 🤔: I’m looking for input with anything I am currently working on! 😄
