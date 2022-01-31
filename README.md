@@ -208,10 +208,7 @@ The browsers I use or have used in the past sorted by use time, I currently use 
 
 
 <div align="center">
-    <figure>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi_master&layout=compact&custom_title=Time%20Spent%20%28Past%207%20days%29"></br>
-        <figcaption>My Exams are running so I can't really focus right now on coding</figcaption>
-    </figure>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi_master&layout=compact&custom_title=Time%20Spent%20%28Past%207%20days%29"></br>
 
 ### Show some ❤️ by starring some of the repositories
 
