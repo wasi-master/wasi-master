@@ -11,7 +11,7 @@ Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my po
   - 👉: Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 
 - 💬: Ask me about Python, Life in Bangladesh. <img src="https://i.imgur.com/iOxzGwv.png" width=14> 🇧🇩
 - 😄: Pronouns: He/Him 👦
-- ⚡: Fun fact: I've been "programming" for 2 years now but if you consider [scratch](https://scratch.mit.edu) then it's over 5 years
+- ⚡: Fun fact: I've been "programming" for 3 years now but if you consider [scratch](https://scratch.mit.edu) then it's over 6 years
 - 📫: You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com)
 
 <p align="left">
