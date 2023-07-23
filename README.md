@@ -3,16 +3,17 @@
 
 <br>
 
-Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my portfolio video"), a 15 year old developer from Bangladesh. I'm a creative problem solving enthusiast who has a constantly growing love for programming
-- 🏫: I'm a grade 9, probably considered a High School Student. 📚
+Hi, I'm [Wasi Master](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Link to my portfolio video"), a 16 year old developer from Bangladesh. I'm a creative problem solving enthusiast who has a constantly growing love for programming
+- 🏫: I'm a grade 10, a High School Student. 📚
 - 🔭: I’m currently working on many small projects. 🤏
-- 🌱: I’m currently learning Kotlin, Jetpack Compose, MVVM. 🧠💻🤖
+- 🌱: I’m currently learning ML, AI, CyberSec. 🧠💻🤖
 - 🤔: I’m looking for input with anything I am currently working on! 😄
   - 👉: Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 
 - 💬: Ask me about Python, Life in Bangladesh. <img src="https://i.imgur.com/iOxzGwv.png" width=14> 🇧🇩
 - 😄: Pronouns: He/Him 👦
-- ⚡: Fun fact: I've been "programming" for 3 years now but if you consider [scratch](https://scratch.mit.edu) then it's over 6 years
-- 📫: You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com)
+- ⚡: Fun fact: I've been "programming" for 4 years now but if you consider [scratch](https://scratch.mit.edu) then it's over 7 years
+- 📫: You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com) or [contact@wasimaster.xyz](mailto:contact@wasimaster.xyz)
+
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=wasi-master" alt="wasi-master" title="Profile Views" />
