@@ -18,25 +18,10 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=wasi-master&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wasi-master&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wasi-master&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wasi-master&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasi-master&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=wasi_master&layout=compact&custom_title=Time%20Spent%20%28Past%207%20days%29&theme=dracula)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=wasi-master&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-### 🔝 Top Contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=wasi-master&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="random Meme"/>
 
 ---
