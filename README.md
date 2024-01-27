@@ -5,6 +5,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=wasi-master" alt="wasi-master" title="Profile Views" />
+    <a href="https://wakatime.com/@3f6c7240-cb48-4d50-ab4e-3a8a094c45d0"><img src="https://wakatime.com/badge/user/3f6c7240-cb48-4d50-ab4e-3a8a094c45d0.svg" alt="Total time coded since Jul 13 2021, amounting to approximately half my total lifetime coding" /></a>
 <h3>Show some ❤️ by starring some of my repositories</h3>
 </div>
 
