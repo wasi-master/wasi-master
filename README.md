@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # 💫 About Me
 
-🏫: I'm a grade 10, a High School Student. 📚<br>🤔: I’m looking for input on anything I am working on! 😄<br>👉: Please feel free to clone/fork projects, raise issues, and submit PRs if you think something co1uld be improved. 🤩<br>😄: Pronouns: He/Him 👦<br>📫: You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com "Email Me!"). 📨<br>
+🏫: I'm in 10th grade, a High School Student. 📚<br>🤔: I’m looking for input on anything I am working on! 😄<br>👉: Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be improved. 🤩<br>😄: Pronouns: He/Him 👦<br>📫: You can email me at: [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com "Email Me!"). 📨<br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=wasi-master" alt="wasi-master" title="Profile Views" />
